@@ -25,3 +25,4 @@
 - .data (dataset)
 - draw data with dataset
 - functions within js 
+- padding 
