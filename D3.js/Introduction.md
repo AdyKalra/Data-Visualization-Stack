@@ -15,4 +15,13 @@
 - jsbin.com as an editor
 
 # D3 principles
-- 
+- Selections d3.select
+- append operators .append
+- Style operators .attr .style
+
+# drawing with data
+- var dataset =[5, 10, 15, 20, 25]
+-  svg.selectall
+- .data (dataset)
+- draw data with dataset
+- functions within js 
